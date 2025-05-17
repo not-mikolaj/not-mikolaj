@@ -16,10 +16,8 @@ High School Student & Aspiring Full Stack Developer passionate about creating mo
 ## 🏆 Certifications
 
 <div align="center">
-  <a href="https://www.credly.com/users/mikolaj-wojtowicz">
-    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Microsoft Certified: Azure Fundamentals" width="150"/>
-    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals" width="150"/>
-  </a>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dfce93d3-ca57-4130-9721-e1a823ea03c2" data-share-badge-host="https://www.credly.com"></div>
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
 ## 💼 Experience
