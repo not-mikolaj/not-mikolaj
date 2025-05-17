@@ -11,7 +11,11 @@
 
 ## 🚀 About Me
 
-18yo student passionate about web development and cloud technologies. Currently seeking internship opportunities to gain hands-on experience in software development and cloud computing. Certified in Microsoft Azure Fundamentals and actively working on personal projects to expand my skills in full-stack development.
+<div align="center">
+  <img src="https://img.shields.io/badge/Age-18-blue?style=for-the-badge" alt="Age: 18"/>
+</div>
+
+Young and ambitious developer passionate about web development and cloud technologies. Currently seeking internship opportunities to gain hands-on experience in software development and cloud computing. Despite my age, I've already earned multiple Microsoft certifications including Azure Fundamentals, Security, Compliance, and Identity Fundamentals, Azure Data Fundamentals, and Azure AI Fundamentals. Actively working on personal projects to expand my skills in full-stack development.
 
 ## 🏆 Certifications
 
@@ -21,6 +25,12 @@
   </a>
   <a href="https://www.credly.com/badges/72b5918e-f368-4862-9bcf-a804763c89cd/public_url">
     <img src="https://images.credly.com/size/340x340/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals" width="150"/>
+  </a>
+  <a href="https://www.credly.com/badges/5c8092fb-bc45-45d2-b1ed-b32ac7c77f60">
+    <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Microsoft Certified: Azure Data Fundamentals" width="150"/>
+  </a>
+  <a href="https://www.credly.com/badges/733b103c-e73d-4693-9f44-2bb60e09e804/public_url">
+    <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Microsoft Certified: Azure AI Fundamentals" width="150"/>
   </a>
 </div>
 
