@@ -11,13 +11,13 @@
 
 ## 🚀 About Me
 
-High School Student & Aspiring Full Stack Developer passionate about creating modern, responsive web applications. Currently focused on expanding my knowledge in web development and gaining practical experience through internships and personal projects.
+18-year-old student passionate about web development and cloud technologies. Currently seeking internship opportunities to gain hands-on experience in software development and cloud computing. Certified in Microsoft Azure Fundamentals and actively working on personal projects to expand my skills in full-stack development.
 
 ## 🏆 Certifications
 
 <div align="center">
-  <a href="https://www.credly.com/badges/dfce93d3-ca57-4130-9721-e1a823ea03c2/public_url">
-    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Microsoft Certified: Azure Fundamentals" width="150"/>
+  <a href="https://www.credly.com/earner/earned/badge/dfce93d3-ca57-4130-9721-e1a823ea03c2">
+    <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="Microsoft Certified: Azure Fundamentals" width="150"/>
   </a>
 </div>
 
