@@ -4,7 +4,7 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-wojtowicz.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wojtowicz.dev)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mikolaj_Wojtowicz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikolaj-wojtowicz)
-  [![Email](https://img.shields.io/badge/Email-contact@wojtowicz.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@wojtowicz.dev)
+  [![Email](https://img.shields.io/badge/Email-mikolaj@wojtowicz.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikolaj@wojtowicz.dev)
   [![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mikolaj-wojtowicz)
 
 </div>
