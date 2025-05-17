@@ -65,7 +65,7 @@
 
 ## 📫 Get in Touch
 
-I'm actively seeking internship opportunities in network engineering and IT infrastructure. With my CCNAv7 certification and hands-on experience, I'm eager to contribute to network design, implementation, and security projects. Let's connect to discuss how I can help strengthen your network infrastructure!
+I'm actively seeking internship opportunities to gain hands-on experience in software development and cloud computing. If you're looking for a motivated young developer who's eager to learn and contribute, I'd love to hear from you!
 
 **Email:** [mikolaj@wojtowicz.dev](mailto:mikolaj@wojtowicz.dev)
 
