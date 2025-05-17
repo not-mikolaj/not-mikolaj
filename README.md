@@ -38,7 +38,6 @@ Young and ambitious developer passionate about web development and cloud technol
 
 ### IT Helpdesk Intern @ GE Aerospace Poland
 *May 2025 - June 2025*
-- Re-enrolled 200+ company laptops to new required standard
 - Improved efficiency in accessing key intranet components for new hires
 - Gained hands-on experience with Windows, Azure, and networking
 
