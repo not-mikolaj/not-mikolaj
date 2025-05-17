@@ -15,22 +15,16 @@
   <img src="https://img.shields.io/badge/Age-18-blue?style=for-the-badge" alt="Age: 18"/>
 </div>
 
-Young and ambitious developer passionate about web development and cloud technologies. Currently seeking internship opportunities to gain hands-on experience in software development and cloud computing. Despite my age, I've already earned multiple Microsoft certifications including Azure Fundamentals, Security, Compliance, and Identity Fundamentals, Azure Data Fundamentals, and Azure AI Fundamentals. Actively working on personal projects to expand my skills in full-stack development.
+18-year-old aspiring network engineer with a strong foundation in networking technologies. Currently seeking internship opportunities to apply and expand my skills in network infrastructure and security. Certified in Cisco CCNAv7, demonstrating my commitment to professional growth in the networking field. Passionate about building robust network solutions and eager to contribute to real-world projects.
 
 ## 🏆 Certifications
 
 <div align="center">
-  <a href="https://www.credly.com/earner/earned/badge/dfce93d3-ca57-4130-9721-e1a823ea03c2">
-    <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="Microsoft Certified: Azure Fundamentals" width="150"/>
-  </a>
   <a href="https://www.credly.com/badges/72b5918e-f368-4862-9bcf-a804763c89cd/public_url">
     <img src="https://images.credly.com/size/340x340/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals" width="150"/>
   </a>
-  <a href="https://www.credly.com/badges/5c8092fb-bc45-45d2-b1ed-b32ac7c77f60">
-    <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Microsoft Certified: Azure Data Fundamentals" width="150"/>
-  </a>
-  <a href="https://www.credly.com/badges/733b103c-e73d-4693-9f44-2bb60e09e804/public_url">
-    <img src="https://images.credly.com/size/340x340/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png" alt="Microsoft Certified: Azure AI Fundamentals" width="150"/>
+  <a href="https://www.credly.com/earner/earned/badge/dfce93d3-ca57-4130-9721-e1a823ea03c2">
+    <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="Cisco CCNAv7" width="150"/>
   </a>
 </div>
 
@@ -69,14 +63,11 @@ Young and ambitious developer passionate about web development and cloud technol
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=not-mikolaj&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🌟 Featured Projects
-
-### [SEP Revision Test](https://github.com/not-mikolaj/SEP)
-A web application created to help with SEP Certification revision, featuring a dark mode interface and comprehensive study materials.
-
 ## 📫 Get in Touch
 
-Feel free to reach out if you'd like to collaborate on a project or just want to say hello!
+I'm actively seeking internship opportunities in network engineering and IT infrastructure. With my CCNAv7 certification and hands-on experience, I'm eager to contribute to network design, implementation, and security projects. Let's connect to discuss how I can help strengthen your network infrastructure!
+
+**Email:** [mikolaj@wojtowicz.dev](mailto:mikolaj@wojtowicz.dev)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=not-mikolaj&color=blueviolet" alt="Profile Views" />
