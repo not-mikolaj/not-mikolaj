@@ -31,7 +31,7 @@
 ## 💼 Experience
 
 ### IT Helpdesk Intern @ GE Aerospace Poland
-*May 2025 - June 2025*
+*May 2025 - August 2025*
 - Improved efficiency in accessing key intranet components for new hires
 - Gained hands-on experience with Windows, Azure, and networking
 
