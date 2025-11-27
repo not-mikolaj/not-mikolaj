@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Age-18-blue?style=for-the-badge" alt="Age: 18"/>
 </div>
 
-18-year-old aspiring network engineer with a strong foundation in networking technologies. Currently seeking internship opportunities to apply and expand my skills in network infrastructure and security. Certified in Cisco CCNAv7, demonstrating my commitment to professional growth in the networking field. Passionate about building robust network solutions and eager to contribute to real-world projects.
+19-year-old aspiring network engineer with a strong foundation in networking technologies. Currently seeking internship opportunities to apply and expand my skills in network infrastructure and security. Certified in Cisco CCNAv7, demonstrating my commitment to professional growth in the networking field. Passionate about building robust network solutions and eager to contribute to real-world projects.
 
 ## 🏆 Certifications
 
