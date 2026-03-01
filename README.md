@@ -29,12 +29,6 @@ Currently building hands-on experience across networking, cloud, and modern web 
 - [Cisco CCNAv7](https://www.credly.com/earner/earned/badge/dfce93d3-ca57-4130-9721-e1a823ea03c2)
 - [Microsoft Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/72b5918e-f368-4862-9bcf-a804763c89cd/public_url)
 
-## GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=not-mikolaj&show_icons=true&bg_color=0f172a&title_color=BCA4E3&text_color=cbd5e1&icon_color=BCA4E3&border_color=334155" alt="GitHub stats" />
-</div>
-
 ## Contact
 
 - [Portfolio](https://wojtowicz.dev)
