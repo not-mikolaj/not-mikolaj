@@ -61,17 +61,6 @@ Cisco Networking Academy — 2023
 
 ---
 
-# 📊 GitHub Stats
-
-| Stats                                                                                                                               | Languages                                                                                                                  |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikolajwojtowicz\&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikolajwojtowicz\&theme=dracula) |
-
-Stats generated with:
-https://github.com/tipsy/profile-summary-for-github
-
----
-
 # 🔬 Projects & Experiments
 
 You can find my projects and experiments on my portfolio:
