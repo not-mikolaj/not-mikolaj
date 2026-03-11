@@ -8,7 +8,7 @@ My background includes **network engineering (CCNA)** and **system administratio
 https://wojtowicz.dev
 
 💼 **LinkedIn:**
-https://www.linkedin.com/in/mikolajwojtowicz/
+https://www.linkedin.com/in/mikolajwojtowicz
 
 ---
 
@@ -79,4 +79,4 @@ I like working on projects related to:
 # 📫 Contact
 
 🌐 Website — https://wojtowicz.dev
-💼 LinkedIn — https://www.linkedin.com/in/mikolajwojtowicz/
+✉️ E-mail — mikolaj@wojtowicz.dev
