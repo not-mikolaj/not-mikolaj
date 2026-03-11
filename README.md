@@ -1,36 +1,93 @@
-# Mikolaj Wojtowicz
+# Hi, I'm Mikołaj Wójtowicz 👋
 
-<div align="center">
+I'm an **aspiring DevOps Engineer** with a strong interest in **Cloud infrastructure, networking, and automation**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-wojtowicz.dev-0f172a?style=for-the-badge&logo=google-chrome&logoColor=BCA4E3)](https://wojtowicz.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mikolaj_Wojtowicz-0f172a?style=for-the-badge&logo=linkedin&logoColor=BCA4E3)](https://linkedin.com/in/mikolaj-wojtowicz)
-[![Email](https://img.shields.io/badge/Email-mikolaj@wojtowicz.dev-0f172a?style=for-the-badge&logo=gmail&logoColor=BCA4E3)](mailto:mikolaj@wojtowicz.dev)
-[![Credly](https://img.shields.io/badge/Credly-Certifications-0f172a?style=for-the-badge&logo=credly&logoColor=BCA4E3)](https://www.credly.com/users/mikolaj-wojtowicz)
+My background includes **network engineering (CCNA)** and **system administration**, and I'm currently expanding my skills in **DevOps tools, cloud technologies, and automation**.
 
-</div>
+🌐 **Portfolio:**
+https://wojtowicz.dev
 
-## About
+💼 **LinkedIn:**
+https://www.linkedin.com/in/mikolajwojtowicz/
 
-Aspiring network engineer focused on secure, reliable infrastructure and practical automation.
-Currently building hands-on experience across networking, cloud, and modern web systems.
+---
 
-- Cisco CCNAv7 certified
-- Former IT Helpdesk Intern at GE Aerospace Poland (May 2025 - August 2025)
-- Open to internship opportunities in networking, cloud, and security
+# 🚀 DevOps Interests
 
-## Tech Stack
+* Linux system administration
+* Infrastructure automation
+* CI/CD pipelines
+* Networking and cloud infrastructure
+* Containerization and orchestration
 
-**Core:** Networking, Windows, Azure, Git  
-**Frontend:** HTML, CSS, JavaScript, React, Vue  
-**Backend:** Node.js, PHP, MySQL
+---
 
-## Certifications
+# 🧰 Technologies & Skills
 
-- [Cisco CCNAv7](https://www.credly.com/earner/earned/badge/dfce93d3-ca57-4130-9721-e1a823ea03c2)
-- [Microsoft Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/72b5918e-f368-4862-9bcf-a804763c89cd/public_url)
+**Systems**
 
-## Contact
+* Linux
+* Windows Server
+* SUSE Linux Enterprise Server (SLES)
 
-- [Portfolio](https://wojtowicz.dev)
-- [LinkedIn](https://linkedin.com/in/mikolaj-wojtowicz)
-- [Email](mailto:mikolaj@wojtowicz.dev)
+**Networking**
+
+* Routing & Switching
+* Network Fundamentals
+* Cisco Networking
+
+**DevOps (Learning & Exploring)**
+
+* Docker
+* Git
+* CI/CD
+* Infrastructure automation
+
+---
+
+# 📜 Certifications
+
+**INF.02 – Administration and Operation of Computer Systems, Peripherals and Local Networks**
+Okręgowa Komisja Egzaminacyjna w Warszawie — 2025
+
+**Cambridge English: Advanced (CAE)**
+Cambridge English — 2025
+
+**CCNA: Introduction to Networks**
+Cisco Networking Academy — 2023
+
+**CCNA: Switching, Routing, and Wireless Essentials**
+Cisco Networking Academy — 2023
+
+---
+
+# 📊 GitHub Stats
+
+| Stats                                                                                                                               | Languages                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikolajwojtowicz\&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikolajwojtowicz\&theme=dracula) |
+
+Stats generated with:
+https://github.com/tipsy/profile-summary-for-github
+
+---
+
+# 🔬 Projects & Experiments
+
+You can find my projects and experiments on my portfolio:
+
+👉 https://wojtowicz.dev
+
+I like working on projects related to:
+
+* networking labs
+* Linux servers
+* infrastructure setup
+* automation scripts
+
+---
+
+# 📫 Contact
+
+🌐 Website — https://wojtowicz.dev
+💼 LinkedIn — https://www.linkedin.com/in/mikolajwojtowicz/
