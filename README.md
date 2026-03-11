@@ -7,9 +7,6 @@ My background includes **network engineering (CCNA)** and **system administratio
 🌐 **Portfolio:**
 https://wojtowicz.dev
 
-💼 **LinkedIn:**
-https://www.linkedin.com/in/mikolajwojtowicz
-
 ---
 
 # 🚀 DevOps Interests
