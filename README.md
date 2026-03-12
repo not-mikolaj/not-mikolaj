@@ -1,4 +1,4 @@
-# Hi, I'm Mikołaj Wójtowicz <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
+# Hi, I'm Mikołaj Wójtowicz 👋
 
 I'm an **aspiring DevOps Engineer** with a strong interest in **Cloud infrastructure, networking, and automation**.
 
