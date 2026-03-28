@@ -2,7 +2,7 @@
 
 I'm an **aspiring DevOps Engineer** with a strong interest in **Cloud infrastructure, networking, and automation**.
 
-My background includes **network engineering (CCNA)** and **system administration**, and I'm currently expanding my skills in **DevOps tools, cloud technologies, and automation**.
+My background includes **network engineering (CCNA)** and **system administration**, I'm currently expanding my skills in **DevOps tools, cloud technologies, and automation**.
 
 🌐 **Portfolio:**
 https://wojtowicz.dev
